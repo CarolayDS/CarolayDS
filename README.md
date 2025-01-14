@@ -17,7 +17,7 @@
 ---
 
 🚀 **Actualmente trabajando en:**  
-- 💻 Una **aplicación móvil basada en IA** para interpretar análisis de suelo.  
+- 💻 Una **aplicación móvil basada en IA**.
 - 📖 **Investigaciones** alineadas con los **ODS**, creando soluciones tecnológicas accesibles y sostenibles.  
 
 ---
